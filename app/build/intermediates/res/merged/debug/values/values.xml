@@ -3,7 +3,7 @@
     <!-- From: file:/home/paul/data/programmation/android/michelle/ch05_ex3_TipCalculator/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Tip Calculator</string>
-    <string name="apply">Apply</string>
+    <string name="apply">Calculate</string>
     <string name="bill_amount"/>
     <string name="bill_amount_label">Bill Amount</string>
     <string name="decrease">-</string>
